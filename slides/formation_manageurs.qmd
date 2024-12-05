@@ -514,6 +514,9 @@ Nous nous sommes concentrés sur la brique:
 ![](img/tableau-perf-parquet.png){fig-align="center" height="500"}
 
 
+# Bonnes pratiques relatives aux données (suite)
+
+
 ## La sécurité: question
 
 ::: {.callout-note title="Question"}
